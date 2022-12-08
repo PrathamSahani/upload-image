@@ -1,2 +1,2 @@
 # upload-image
- https://184425324.github.io/upload-image/
+ https://prathamsahani.github.io/upload-image/
